@@ -1,0 +1,31 @@
+권운: 맑음 0
+권층운: 태풍 3
+권적운: 대기 불안정 1
+고적운: 채운(무지개) 0
+고층운: 비/눈 2
+난층운: 연속적인 비/눈 2
+층적운: 눈 2
+층운: 안개 1
+적운: 맑음 0
+적란운: 우박, 폭우 2
+
+비 1
+비/눈 1
+눈 1
+소나기 1
+기상 이상 없음 0
+
+blouse 1
+dress 1
+jacket 2, 3
+pants 0 1 2 3 4
+shorts 0 1
+skirt 0 1
+sweater 3 4
+Tshirt 1 2
+
+0 : pants, shorts, skirt
+1: blouse, dress, pants, shorts, skirt, Tshirt
+2: jacket, pants, Tshirt
+3: jacket, pants, sweater
+4: pants, sweater
